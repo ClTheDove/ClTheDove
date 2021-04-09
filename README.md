@@ -1,6 +1,6 @@
 <p>
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@zijianjiao2017?theme=rule34"></a>
-  <img src="https://weather-icon.journeyad.repl.co/@harbin?v=1" align="right" alt="萌萌计数器">
+  <img src="https://weather-icon.journeyad.repl.co/@harbin?v=1" align="right" alt="Moe Counter" title="萌萌计数器">
 </p>
 
 ### QWQ
