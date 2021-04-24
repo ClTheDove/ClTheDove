@@ -3,7 +3,7 @@
   <img src="https://weather-icon.journeyad.repl.co/@harbin?v=1" align="right">
 </p>
 
-### QWQ
+<img id="zijianjiao2017_is_homo" src="https://img.shields.io/badge/15%20%E5%B2%81-%E4%BA%8B%E5%AD%A6%E7%94%9F-000000">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=zijianjiao2017&show_icons=true&bg_color=0,ffafbd,ffc3a0&icon_color=fff&title_color=fff&text_color=fff" />
