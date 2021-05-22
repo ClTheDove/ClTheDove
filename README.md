@@ -15,7 +15,7 @@
 </a>
   
 ### R.I.P.
-  *袁隆平 1930/9/7-2021/5/22 (91 y.o.)*
+  *[Yuan Longping](https://en.wikipedia.org/wiki/Yuan_Longping) 1930/9/7-2021/5/22 (91 y.o.)*
 
 <!--
 **zijianjiao2017/zijianjiao2017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
